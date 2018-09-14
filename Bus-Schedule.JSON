@@ -1,0 +1,42 @@
+var route_info= [
+    {"title": "Duhaney Park", "descr": [
+    ["Peter's Bakery/Juici Patties", "UWI", "6:30AM "],
+    ["UWI", "Washington Boulevard", "4:30PM"],
+    ["UWI", "Washington Boulevard", "7:30PM"],
+    ["UWI @ Assembly Hall", "Washington Boulevard", "9:30PM"]],
+      "tags":["Testing", "Testing2"]
+  },
+    {"title": "Spanish Town", "descr": [
+    ["LOJ Shopping Centre", "UWI", "6:15AM"],
+    ["UWI", "LOJ Shopping Centre", "4:30PM"],
+    ["UWI", "LOJ Shopping Centre", "7:30PM"],
+    ["UWI @ Assembly Hall", "LOJ Shopping Centre", "9:30PM"]],
+      "tags":["St. Catherine, St Catherine, Catherine, Saint Catherine, Spain"]
+  },
+    {"title": "Monza(Portmore) via Daytona, Portmore Pines", "descr": [
+    ["Greater Portmore round-a-bout", "UWI", "5:50AM"],
+    ["UWI", "Greater Portmore round-a-bout", "4:30PM"],
+    ["UWI", "Greater Portmore round-a-bout", "7:30PM"],
+    ["UWI @ Assembly Hall", "Greater Portmore round-a-bout", "9:30PM"]],
+      "tags":[""]
+  },
+  {"title": "Gregory Park", "descr": [
+    ["Christian Gardens", "UWI", "5:50AM"],
+    ["UWI", "Christian Gardens", "4:30PM"],
+    ["UWI", "Christian Gardens", "7:30PM"],
+    ["UWI @ Assembly Hall", "Christian Gardens", "9:30PM"]],
+    "tags":[""]
+  },
+  {"title": "20 Route", "descr": [
+    ["UWI", "EPSOM(8 West, Greater Portmore round-a-bout)", "7:30PM"],
+    ["UWI @ Assembly Hall", "EPSOM(8 West, Greater Portmore round-a-bout)", "9:30PM"]],
+    "tags":["Epsom city"]
+  },
+    {"title": "Greater Portmore", "descr": [
+    ["2 East", "UWI", "5:50AM"],
+    ["UWI", "2 East", "4:30PM"],
+    ["UWI", "2 East", "7:30PM"],
+    ["UWI @ Assembly Hall", "2 East", "9:30PM"]],
+      "tags":[""]
+  }
+];
